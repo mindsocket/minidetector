@@ -11,6 +11,7 @@ setup(
         "minidetector",
         "minidetector.tests",
     ],
+    include_package_data=True,
     classifiers = [
         "Development Status :: 3 - Alpha",
         "Environment :: Web Environment",
